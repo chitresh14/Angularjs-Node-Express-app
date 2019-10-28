@@ -1,0 +1,15 @@
+Client
+	App
+		external
+		components
+		js
+			routes
+			globals
+		css
+		
+
+
+Server
+	DA
+	API
+	Routes
